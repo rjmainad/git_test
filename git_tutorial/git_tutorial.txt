@@ -11,5 +11,3 @@ kunwari binago ni rj kasi may mali dun sa code ni cy
 testing commit on github
 
 commit test without commit in local git
-
-other account collab-testing fork and pull request
