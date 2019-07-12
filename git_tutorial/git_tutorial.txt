@@ -7,3 +7,5 @@ testing the -m part of git commitgit
 git log test
 
 kunwari binago ni rj kasi may mali dun sa code ni cy
+
+testing commit on github
