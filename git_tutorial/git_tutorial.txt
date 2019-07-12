@@ -1,13 +1,15 @@
-learning how to use git commit messages
-
 test to learn how to create a paragraph in git commit messages
 
 testing the -m part of git commitgit
-
-git log test
 
 kunwari binago ni rj kasi may mali dun sa code ni cy
 
 testing commit on github
 
 commit test without commit in local git
+
+other account collab-testing fork and pull request
+
+test conflict with main branch? delete line 7 containing git log test
+
+deleted line 1 learning how to use git commit messages
