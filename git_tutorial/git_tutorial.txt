@@ -13,3 +13,5 @@ other account collab-testing fork and pull request
 test conflict with main branch? delete line 7 containing git log test
 
 deleted line 1 learning how to use git commit messages
+
+gitpush test with rjmainad (bakit gumagana lang dun sa personal github? ang weird)
