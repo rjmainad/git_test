@@ -17,3 +17,5 @@ deleted line 1 learning how to use git commit messages
 gitpush test with rjmainad (bakit gumagana lang dun sa personal github? ang weird)
 
 git push test ssh 2 with passphrase
+
+push test to see account
