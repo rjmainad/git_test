@@ -1,0 +1,7 @@
+python -m venv ProjectName
+
+activate env
+
+pip install ipykernel
+
+python -m ipykernel install --user --name=EnvNameinJupyterNotebook
